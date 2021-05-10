@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Project 1: Tune Up",
+    "gitHub": "https://github.com/jkelly101/tune-up-music-project",
+    "web": "https://jkelly101.github.io/tune-up-music-project/index.html"
+  },
+  {
+    "id": 2,
+    "name": "Workday Scheduler",
+    "gitHub": "https://github.com/jacobhohing/Day-Planner",
+    "web": "https://jacobhohing.github.io/Day-Planner/Assets/index.html"
+  },
+  {
+    "id": 3,
+    "name": "Full Stack Burger Project",
+    "gitHub": "https://github.com/jacobhohing/Burger-App",
+    "web": ""
+  },
+  {
+    "id": 4,
+    "name": "Project 2: Mood Swings",
+    "gitHub": "https://github.com/jkelly101/mood-swing",
+    "web": "https://pumpkin-pudding-29996.herokuapp.com/"
+  }
+]
